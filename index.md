@@ -66,3 +66,10 @@ If you want to run your own instance of the server used for this workshop, follo
 
 ## Citation 
 
+Please cite as: 
+
+Haydeé Contreras-Peruyero, Shaday Guerrero-Flores, Claudia Zirión-Martínez, Paulina M Mejía-Ponce, Marisol Navarro-Miranda, J Abel Lovaco-Flores, José M Ibarra-Rodríguez, Anton Pashkov, Cuauhtémoc Licona-Cassani, Nelly Sélem-Mojica, Meeting the challenge of genomic analysis: a collaboratively developed workshop for pangenomics and topological data analysis, Bioinformatics Advances, Volume 4, Issue 1, 2024, vbae139, https://doi.org/10.1093/bioadv/vbae139
+
+## Funding
+
+Thanks to PAPIIT IA106323 "Pan-cluster, herramientas de Big data para caracterización pangenómica de clústeres biosintéticos en microorganismos" for the funds provided that made the development of this lesson possible.
